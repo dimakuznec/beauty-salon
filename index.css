@@ -83,3 +83,28 @@ body {
     line-height: 31px;
     color: #000000;    
 }
+
+.profile {
+    position: absolute;
+    left: 90.65%;
+    right: 7.63%;
+    top: 35%;
+    bottom: 92.48%;
+}
+
+.basket {
+    position: absolute;
+    left: 94.19%;
+    right: 4.04%;
+    top: 35%;
+    bottom: 92.7%;
+}
+
+.Rectangle-2 {
+    position: absolute;
+    width: 643px;
+    height: 420px;
+    left: 455px;
+    top: 100px;
+    background: #F4F4F4;
+}
